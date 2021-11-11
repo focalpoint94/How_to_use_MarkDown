@@ -130,8 +130,12 @@ class LRUCache:
 ----------------
 
 9. 링크
-[Title](link)
-[Google](https://google.com, "google")
+* 직접링크   
+<https://focalpoint.tistory.com/>
+* 텍스트 링크   
+옆의 티스토리 주소로 놀러와주세요. [티스토리 주소](https://focalpoint.tistory.com/) 클릭!
+* 설명 추가 링크
+옆의 티스토리 주소로 놀러와주세요. [티스토리 주소](https://focalpoint.tistory.com/, "시바견의 끄적임") 클릭!
 
 10. 강조   
 ```
